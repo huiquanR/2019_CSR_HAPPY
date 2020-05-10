@@ -16,10 +16,7 @@
  if the codes could help you.
 
 
- 2020  Tony Huiquan Zhang, Jing Hu, and Xichao Zhang, 
- “Disparities in Subjective Well-being: Political Status, 
- Urban-Rural Divide and Cohort Dynamics in China,” Chinese 
- Sociological Review, 52(1): 56-83.  (https://www.tandfonline.com/doi/full/10.1080/21620555.2019.1654369) 
+2020  **Zhang, Tony Huiquan**, Jing Hu, and Xichao Zhang. "Disparities in Subjective Wellbeing: Political Status, Urban-Rural Divide, and Cohort Dynamics in China." *Chinese Sociological Review* 52.1 (2020): 56-83。 (https://www.tandfonline.com/doi/full/10.1080/21620555.2019.1654369) 
 
 ###  Code Version ###
 
