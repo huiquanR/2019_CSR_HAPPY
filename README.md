@@ -1,10 +1,9 @@
-# CSR_HAPPY_2019
+# CSR_HAPPY_2019 #
 
 
-### Reproducible Codes for my publication at Chinese Sociological Review (2019)
+### Reproducible Codes for my publication at Chinese Sociological Review (2020) ###
 
 2019.10.23 version: sys info and package info 
-
 
  please note: CGSS 2003-2015 data (in dta format) are publicly
  available. the author does not have rights to redistribute it;
@@ -17,13 +16,12 @@
  if the codes could help you.
 
 
- 2019  Tony Huiquan Zhang, Jing Hu, and Xichao Zhang, 
+ 2020  Tony Huiquan Zhang, Jing Hu, and Xichao Zhang, 
  “Disparities in Subjective Well-being: Political Status, 
  Urban-Rural Divide and Cohort Dynamics in China,” Chinese 
- Sociological Review. (DOI: 10.1080/21620555.2019.1654369) 
- [SSCI Q1, 2017 IF = 2.300]
+ Sociological Review, 52(1): 56-83.  (https://www.tandfonline.com/doi/full/10.1080/21620555.2019.1654369) 
 
-###   version
+###  Code Version ###
 
   platform       x86_64-w64-mingw32          
   arch           x86_64                      
@@ -33,4 +31,4 @@
   version.string R version 3.6.1 (2019-07-05)
   nickname       Action of the Toes 
 
-### Welcome to cite my work if you feel it is interesting :)
+### Welcome to cite my work if you feel it is interesting :) ###
