@@ -1,8 +1,12 @@
 # CSR_HAPPY_2019 #
+ These codes are only part of my research codes/notes 
+ and are for academic use only. Please do not use it for 
+ purposes other than academic research. Please also cite my 
+ work if the codes could help you.
+ 
+### Welcome to cite my work as following ###
 
-### Welcome to cite my work if you feel it is interesting :) ###
-
-2020  **Zhang, Tony Huiquan**, Jing Hu, and Xichao Zhang. "Disparities in Subjective Wellbeing: Political Status, Urban-Rural Divide, and Cohort Dynamics in China." *Chinese Sociological Review* 52.1 (2020): 56-83。 (https://www.tandfonline.com/doi/full/10.1080/21620555.2019.1654369) 
+2020  **Zhang, Tony Huiquan**, Jing Hu, and Xichao Zhang. "Disparities in Subjective Wellbeing: Political Status, Urban-Rural Divide, and Cohort Dynamics in China." *Chinese Sociological Review* 52.1 (2020): 56-83. (https://www.tandfonline.com/doi/full/10.1080/21620555.2019.1654369) 
 
 ###  Code Version ###
 
@@ -21,14 +25,14 @@
  Please note: the Chinese General Social Survey (CGSS)
  2003-2015 data (in dta format) are publicly  available. 
  The author does not have rights to redistribute it.
- Please apply for the data access from the data owner, which are based 
- in Renmin University of China and Hong Kong University of Science and Technology.
- Their dataset's official site is at (http://cgss.ruc.edu.cn/index.php?r=index/index&hl=en).
+ Please apply for the data access from the data owner based 
+ in Renmin University of China and Hong Kong 
+ University of Science and Technology.
+ Their dataset's official site is accessible 
+ at (http://cgss.ruc.edu.cn/index.php?r=index/index&hl=en).
  
- After obtaining the data files, you could reproduce the figures/models.
- the codes provided here have been tested and proved to be effective as of Oct 23, 2019,
+ After obtaining the data files, you could reproduce the 
+ figures/models. The codes provided here have been tested 
+ and proved to be effective as of Oct 23, 2019,
  under R 3.6.1 and Windows 10 environment.
  
- These codes are only part of my research codes/notes and are for academic use only.
- Please do not use it for purposes other than academic research. Please also cite my 
- work if the codes could help you.
