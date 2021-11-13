@@ -724,7 +724,7 @@ CGSS2011$MARRIED = ifelse(CGSS2011$a24 == "同居"|
                             CGSS2011$a24 == "再婚有配偶", 1, 0)
 dist_tab(CGSS2011$MARRIED)
 # Ethnic #
-CGSS2011$MINORITY = ifelse(as.character(CGSS2011$a6)=="汉", 0, 1)
+CGSS2011$MINORITY = ifelse(as.character(CGSS2011$a4)=="汉", 0, 1)
 
 # Edulevel # 
 CGSS2011$EDU = "1.ElementaryOrLess"
